@@ -17,6 +17,8 @@ My ambition is to seamlessly transition into a role specializing in data analysi
 
 ## Current Training
 
+- **Virtual Internship**: Data Glacier
+
 - **Digital Skills Bootcamp**: Just IT Training
 
 ## Future Goals
